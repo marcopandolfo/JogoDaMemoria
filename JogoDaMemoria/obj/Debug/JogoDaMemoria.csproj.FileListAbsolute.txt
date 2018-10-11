@@ -1,0 +1,10 @@
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Form1.resources
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+D:\Marco\Curso\CSharp WindowsForms\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
